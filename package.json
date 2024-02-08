@@ -1,0 +1,16 @@
+{
+  "name": "grenier-photo",
+  "module": "/src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.8.0",
+    "elysia": "^0.8.16",
+    "tailwindcss": "^3.4.1"
+  }
+}
